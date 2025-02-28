@@ -3,15 +3,11 @@
 
 ---
 
-## Features
-
----
-
 ## Getting Started
 
 To get started with **Next Stop**, follow these simple steps:
 
-1. **Download the App**: Install the app from the [App Store](#) or [Google Play](#).
-2. **Find Your Next Stop**: Use the app to find routes, schedules, and updates for your next journey.
+1. **Download the App**: Install the app from the [App Store](#). 
+2. **Find Your Next Stop**: Navigate to All Train Lines to find and save the train stops most important to you.
 
 ---
