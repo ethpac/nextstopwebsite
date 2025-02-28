@@ -15,7 +15,7 @@ ___
 
 ## Privacy Policy
 
-**Last updated: [Date]**
+**Last updated: February 28,2025**
 
 At **Next Stop**, we respect your privacy. Here's how we handle your data:
 
